@@ -1,0 +1,13 @@
+package com.example.labsoftwarequality;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LabSoftwareQualityApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(LabSoftwareQualityApplication.class, args);
+    }
+
+}
